@@ -5,7 +5,7 @@
 }
 
 .search {
-  border: 1px solid var(--color-black);
+  border: 1px solid black;
   width: 568px;
   height: 44px;
   top: 13px;
